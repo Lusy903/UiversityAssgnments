@@ -1,1 +1,1 @@
-# UiversityAssgnments
+# UniversityAssgnments
